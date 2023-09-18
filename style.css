@@ -36,6 +36,7 @@ body{
     color: #f9faf8;
     font-size: 48px;
     font-weight: bolder;
+    
 }
 
 .sub-text {
@@ -49,10 +50,12 @@ button{
     background-color: #3882F6;
     color: #E5E7EB;
     border-style: none;
-    border-radius: 10%;
+    border-radius: 5px;
+    padding: 8px 16px 8px 16px;
+    align-items: center;
 }
 img {
-    width: 500px;
+    width: 400px;
 }
 
 a {
