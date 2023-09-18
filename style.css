@@ -63,6 +63,11 @@ img {
     color: #1F2937;
 }
 
+.image{
+    max-width: 200px;
+    height: auto;
+}
+
 .text {
     font-size: 18px;
 }
