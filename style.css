@@ -66,6 +66,7 @@ img {
 .container{
     display: flex;
     justify-content: center;
+    
 }
 
 .title {
@@ -107,7 +108,7 @@ img {
     background-color: #E5E7EB;
     padding: 50px;
 }
-.qoute{
+.quote{
     align-self: center;
     color: #1F2937;
     font-size: 36px;
@@ -115,9 +116,22 @@ img {
     font-style: italic;
 }
 
-.qoute-name{
+.name{
     display:flex;
     justify-content: flex-end;
     font-size: 18px;
     font-weight: bolder;
+}
+
+.blue-box{
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    padding: 40px;
+    
+}
+
+.button-2{
+    border-color: #f9faf8;
+    border: 2px solid #E5E7EB;
 }
